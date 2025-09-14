@@ -7,7 +7,7 @@ I am mdcdi1315, a continously learning developer creating cool projects in .NET 
 - Additionally, I have recently learned the `Java` programming environment. I intend at some time to write and a Minecraft Mod.
 - I am working with digital audio a couple of years now. I know some stuff, however I need to expand this knowledge even more to unlock it's full possibilities.
 - 🤔 I would like in the future to improve my knowledge on web programming languages, mostly `JavaScript`, and work with the website concept.
-- 👯 My goal is at some time in my life to work on multimedia in general.
+- 👯 My goal is at some time in my life to work on multimedia programming/development in general.
 - 💬 For any questions regarding digital audio, `C#` , `.NET` , `C` and `Java`, do not hesitate to ask me privately at mds13363la@gmail.com!!! (although that I do not look it too often, I wish I had the time to check my e-mails more often)
 
 <!--
