@@ -4,7 +4,7 @@ I am mdcdi1315, a continously learning developer creating cool projects in .NET 
 
 - 🔭 I am currently developing the [Music Player On .NET](https://github.com/mdcdi1315/MP.DN-WINDOWS) app, that is another music player but targeting the modern .NET platform.
 - I also know a lot about and can write `C` and this allows me to understand the .NET's P/Invoke feature, and use it effectively for my needs.
-- Additionally, I have recently learned the `Java` programming environment. I have recently also made public a Minecraft Mod repository located [here](https://github.com/mdcdi1315/mdex). This is done mostly to prove out there how the entertainment companies are careless about their badly-written software they are releasing.
+- Additionally, I have recently learned the `Java` programming environment. I have recently also made public a Minecraft Mod repository located [here](https://github.com/mdcdi1315/mdex). This is done mostly to prove out there that the entertainment companies do not care about the buggy, badly-written software they are releasing.
 - I am working with digital audio a couple of years now. I know some stuff, however I need to expand this knowledge even more to unlock it's full possibilities.
 - 🤔 I would like in the future to improve my knowledge on web programming languages, mostly `JavaScript`, and work with the website concept.
 - 👯 My goal is at some time in my life to work on multimedia programming/development in general.
